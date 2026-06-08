@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Portfolio</title>
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Pranav Tiwari</h1>
+
+        <h2>
+            B.Tech Computer Science & Engineering (Artificial Intelligence)
+            |
+            1st Year
+            |
+            AKTU
+        </h2>
+
+        <hr>
+
+        <p>
+            pranav.tiwari18072007@gmail.com |
+            +91-8826115084|            
+            linkedin.com/in/pranav-tiwari-4941953b9 |
+            github.com/pranavtiwari417-bit
+        </p>
+
+        <hr>
+
+    </header>
+
+
+    <main>
+
+        <!-- Objective -->
+
+        <section>
+
+            <h3>Objective</h3>
+
+            <hr>
+
+            <p>
+                Motivated and detail-oriented first-year B.Tech student in
+                Computer Science & Engineering eager to apply foundational
+                programming skills and academic knowledge to real-world projects.
+                Seeking internship and collaborative opportunities to develop
+                expertise in software development, data structures, and
+                problem-solving.
+            </p>
+
+        </section>
+
+
+        <!-- Education -->
+
+        <section>
+
+            <h3>Education</h3>
+
+            <hr>
+
+            <div>
+
+                <h4>
+                    B.Tech - Computer Science & Engineering
+                    (Artificial Intelligence)
+                </h4>
+
+                <p>
+                    ABES Institute Of Technology, Ghaziabad
+                    |
+                    CGPA: 7.24/10 (Sem 1)
+                    |
+                    2025 - 2029
+                </p>
+
+                <ul>
+
+                    <li>
+                        Relevant Coursework:
+                        Programming in C,
+                        Mathematics-I & II,
+                        Engineering Physics,
+                        Data Structures (upcoming)
+                    </li>
+
+                    <li>
+                        Member of the Indian Society For Technical Education
+                    </li>
+
+                </ul>
+
+            </div>
+
+
+            <div>
+
+                <h4>Class XII - CBSE Board</h4>
+
+                <p>
+                    H.S. Memorial Public School, Lucknow
+                    |
+                    Percentage: 75.20
+                    |
+                    Passed: May 2025
+                </p>
+
+                <p>
+                    Subjects:
+                    PCM + Informatics Practices + English + Hindi
+                </p>
+
+            </div>
+
+
+            <div>
+
+                <h4>Class X - CBSE Board</h4>
+
+                <p>
+                    H.S. Memorial Public School, Lucknow
+                    |
+                    Percentage: 86.40
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- Technical Skills -->
+
+        <section>
+
+            <h3>Technical Skills</h3>
+
+            <hr>
+
+            <table border="1" cellpadding="10">
+
+                <tr>
+
+                    <th>Languages</th>
+                    <td>C, Python (basic), HTML/CSS</td>
+
+                    <th>Tools & IDEs</th>
+                    <td>VS Code, Dev-C++, Git, GitHub</td>
+
+                </tr>
+
+                <tr>
+
+                    <th>CS Fundamentals</th>
+                    <td>
+                        Arrays, Linked Lists,
+                        Sorting Algorithms
+                    </td>
+
+                    <th>Others</th>
+                    <td>MS Office, LaTeX (basic)</td>
+
+                </tr>
+
+                <tr>
+
+                    <th>Web (Basics)</th>
+                    <td>Static web pages, Bootstrap</td>
+
+                    <th>Soft Skills</th>
+                    <td>
+                        Team collaboration,
+                        Time management,
+                        Public Spaeking
+                    </td>
+
+                </tr>
+
+            </table>
+
+        </section>
+
+
+        <!-- Projects -->
+
+        <section>
+
+            <h3>Projects</h3>
+
+            <hr>
+
+            <div>
+
+                <h4>
+                    Smart Retractable Railway Platform Crossing System
+                </h4>
+
+                <ul>
+
+                    <li>
+                        Designed a smart railway crossing safety system
+                        for railway platforms.
+                    </li>
+
+                    <li>
+                        Uses automated retractable platform crossing
+                        for passenger safety.
+                    </li>
+
+                    <li>
+                        Focused on reducing railway crossing accidents
+                        and improving crowd movement.
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </section>
+
+
+        <!-- Achievements -->
+
+        <section>
+
+            <h3>Achievements</h3>
+
+            <hr>
+
+            <ul>
+
+                <li>
+                    JEE Mains 2025 - Secured 50.37 percentile (Overall)
+                </li>
+
+                <li>
+                    2nd Winner at 'Sci-Tech-Fair 2025'
+                    (college competition, team of 4)
+                </li>
+
+                <li>
+                    Participant at 'Aavishkar 5.0'
+                    (college competition, team of 4)
+                </li>
+
+                <li>
+                    Participant at Student rally for
+                    Environment Protection
+                </li>
+
+                <li>
+                    Participant at Student rally for
+                    Promoting Women Education
+                </li>
+
+                <li>
+                    Golden Cup Award Winner for Spoken Skills
+                </li>
+
+            </ul>
+
+        </section>
+
+
+        <!-- Certifications -->
+
+        <section>
+
+            <h3>Certifications</h3>
+
+            <hr>
+
+            <ul>
+
+                <li>Programming in C</li>
+
+                <li>Soft Skills Training Course</li>
+
+                <li>Sci-Tech-Fair 2025 Merit</li>
+
+                <li>Aavishkar 5.0 Participation</li>
+
+                <li>ISTE Membership </li>
+
+            </ul>
+
+        </section>
+
+
+        <!-- Languages & Interests -->
+
+        <section>
+
+            <h3>Languages And Interests</h3>
+
+            <hr>
+
+            <ul>
+
+                <li>
+                    Languages:
+                    <li>English (Fluent)</li>
+                    <li>Hindi (Native)</li>
+                </li>
+
+                <br>
+
+                <li>
+                    Hobbies:
+                    <li>Web Design And Development</li>
+                    <li>Artificial Intelligence</li>
+                    <li>Problem Solving</li>
+                    <li>Researching new ideas</li>
+                    <li>Music and Nature Trips</li>
+                </li>
+
+            </ul>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+
+        <h3>Declaration</h3>
+
+        <hr>
+
+        <p>
+            I hereby declare that the above information is true
+            to the best of my knowledge and belief.
+        </p>
+
+        <p>
+            Place: Ghaziabad
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+            Pranav Tiwari
+        </p>
+
+        <p>
+            Date: 5th June 2026
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+            (Signature)
+        </p>
+
+    </footer>
+
+</body>
+
+</html>
